@@ -2,6 +2,13 @@
 
 # dependencies
 /node_modules
+/src/auth
+.firebaserc
+firebase.json
+firestore.rules
+firestore.indexes.json
+storage.rules
+.gitignore
 
 #incluido pelo github
 /.pnp

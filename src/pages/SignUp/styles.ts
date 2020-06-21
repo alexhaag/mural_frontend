@@ -14,6 +14,7 @@ export const Content = styled.div`
   align-items: center;
   width: 100%;
   max-width: 700px;
+
   form {
     margin: 80px 0;
     width: 340px;
@@ -24,7 +25,7 @@ export const Content = styled.div`
     }
 
     a {
-      color: #000;
+      color: #f4ede8;
       display: block;
       margin-top: 24px;
       text-decoration: none;
@@ -36,7 +37,7 @@ export const Content = styled.div`
     }
   }
   > a {
-    color: #000;
+    color: #f4ede8;
     display: block;
     margin-top: 24px;
     text-decoration: none;
