@@ -8,6 +8,7 @@ export default createGlobalStyle`
     box-sizing:border-box;
 
   }
+
   body {
     background: #ffcc00;
     color: #000;
